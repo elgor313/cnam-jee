@@ -1,0 +1,1 @@
+Mon projet est une application web en utilisant La plate-forme JEE ,et son idee est la gestion des ressources humaines dans une entreprises et la securitee en utilisant le file realm, Cette application permetd'effectuer les opérations de consulter,ajouter, modifier et supprimer des données, J'utilise le JSF comme framework web et le JPA comme framework de persistance et l'EJB .
